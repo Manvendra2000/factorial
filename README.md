@@ -14,7 +14,7 @@ Make sure you have the following installed on your system:
 2. Navigate to the project directory using the command prompt (or terminal).
 
 3. Run the program by executing the following command:
-   ```shell
+   ```shell 
    python factorial.py
    ```
 
