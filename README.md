@@ -8,7 +8,7 @@ Make sure you have the following installed on your system:
 - Python 3.x: [Download Python](https://www.python.org/downloads/)
 
 ## Getting Started :rocket:
-
+small steps bigger vision
 1. Clone the repository or download the ZIP file.
 
 2. Navigate to the project directory using the command prompt (or terminal).
